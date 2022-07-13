@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3520463 */
+  src: url('iconfont.woff2?t=1657710949356') format('woff2'),
+       url('iconfont.woff?t=1657710949356') format('woff'),
+       url('iconfont.ttf?t=1657710949356') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shoucang:before {
+  content: "\e600";
+}
+
+.icon-chazhaofangyuan:before {
+  content: "\e629";
+}
+
+.icon-wode:before {
+  content: "\e75e";
+}
+
+.icon-shuangren:before {
+  content: "\e605";
+}
+
+.icon-gerenziliao:before {
+  content: "\e601";
+}
+
+.icon-zixun:before {
+  content: "\e64e";
+}
+
+.icon-pinzhizhengzu:before {
+  content: "\e62c";
+}
+
+.icon-zufang:before {
+  content: "\e622";
+}
+
+.icon-shenfenzheng:before {
+  content: "\e62d";
+}
+
+.icon-kefu:before {
+  content: "\e88f";
+}
+
+.icon-dituzhaofang:before {
+  content: "\e603";
+}
+
+.icon-yinhangqia:before {
+  content: "\e616";
+}
+
+.icon-shouye:before {
+  content: "\eaf0";
+}
+
+.icon-chuzuwu:before {
+  content: "\e66a";
+}
+
+.icon-lishijilu_huaban:before {
+  content: "\e617";
+}
+
