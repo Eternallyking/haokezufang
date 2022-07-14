@@ -6,3 +6,10 @@ export const login = (username, password) => {
     data: { username, password }
   })
 }
+export const favorites = (token) => {
+  return request({
+    url: '/user/favorites',
+    method: 'get',
+    props: [token]
+  })
+}
